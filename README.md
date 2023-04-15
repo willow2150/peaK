@@ -1,4 +1,4 @@
-![peaK_](/uploads/828d78b52cd64b9c71264d7e39418df4/peaK_.png)
+![peaK_](https://user-images.githubusercontent.com/110278377/232226574-8626ce7d-3853-426b-9798-8b8e2f2fdcf1.png)
 
 # peaK - 나만의 아이돌 분석기
 
@@ -30,7 +30,7 @@ peaK만의 기준으로 **아이돌 랭킹** 제공
 
 ## :triangular_ruler: 아키텍처
 
-![아키텍쳐](/uploads/2cac473e2c8babb83606b47e30546486/architecture.png)
+![architecture](https://user-images.githubusercontent.com/110278377/232226556-df7f34ac-c7ec-44bd-b370-a6650ae79a69.png)
 
 <br/>
 
@@ -89,47 +89,47 @@ Redis 7.0.10
 ### 인트로
 
 - 모든 기능은 회원가입 후 이용 가능하므로 서비스 소개 확인
-  ![peaK_인트로](/uploads/43fc7edf074e84644df701b8c202a0ee/peaK_인트로.gif)
+  ![peaK_인트로](https://user-images.githubusercontent.com/110278377/232226599-d3efa2c4-fad0-4862-b4fa-7223ab7cfc16.gif)
 
 ### 회원가입
 
 - 카카오 로그인 후 닉네임과 관심 아이돌을 설정하면 서비스 회원가입 완료
-  ![peaK_회원가입](/uploads/07894b0735e5810f78272dab4f434526/peaK_회원가입.gif)
+  ![peaK_회원가입](https://user-images.githubusercontent.com/110278377/232226607-ec42fdab-deed-4fab-a19f-38b8d6664202.gif)
 
 ### 홈
 
 - 아이돌 랭킹 top8과 트렌딩 유튜브, 뉴스를 한 눈에 보기
-  ![peaK_홈](/uploads/d3db107a0e4d7f69757099d82352ecdd/peaK_홈.gif)
+  ![peaK_홈](https://user-images.githubusercontent.com/110278377/232226617-2fa2a3c1-f356-4000-b820-fb5a09679ba2.gif)
 
 ### 관심아이돌
 
 - 내가 설정한 관심 아이돌의 페이지 목록으로 바로가기
-  ![peaK_관심아이돌](/uploads/63dbc3a502f7327d0f2a9cc54e1a19c3/peaK_관심아이돌.gif)
+  ![peaK_관심아이돌](https://user-images.githubusercontent.com/110278377/232226622-42c160c0-14b1-4cac-a6eb-28377df58fbb.gif)
 
 ### 아이돌
 
 - 아이돌 검색
 - 아이돌의 순위와 긍부정 지수, 워드 클라우드와 뉴스
 - 응원 한 마디 남기기
-  ![peaK_아이돌](/uploads/0ebba11831e475dff243b81493748786/peaK_아이돌.gif)
+  ![peaK_아이돌](https://user-images.githubusercontent.com/110278377/232226627-a6565a08-ad9d-4262-a679-595fc546d63d.gif)
 
 ### 랭킹 / 차트
 
 - 한 시간마다 업데이트 되는 랭킹
 - 내가 고른 아이돌들의 추이를 차트로 확인
-  ![peaK_랭킹_차트](/uploads/6babab962641ab50dca1954c1a44305b/peaK_랭킹_차트.gif)
+  ![peaK_랭킹_차트](https://user-images.githubusercontent.com/110278377/232226633-1193a911-a464-402e-a4f0-5e4aa9ef744b.gif)
 
 ### 트렌딩
 
 - 지금 이 시간, 아이돌에게 어떤 일이 일어나는지 트렌딩 뉴스 모아보기
 - 오늘의 트렌딩 유튜브 모아보기
-  ![peaK_트렌딩](/uploads/825da0997c7810e490c88eed1ef87f08/peaK_트렌딩.gif)
+![peaK_트렌딩](https://user-images.githubusercontent.com/110278377/232237783-d476b959-8b4d-41d3-bae6-de694eba7537.gif)
 
 ### 마이페이지
 
 - 내 아이돌에게 얼마나 관심을 쏟았는지 수치로 확인
 - 내가 남겼던 2주 간의 응원 한 마디 기록
-  ![peaK_마이페이지](/uploads/34be4831ab89b6f296bc91b50a17209b/peaK_마이페이지.gif)
+  ![peaK_마이페이지](https://user-images.githubusercontent.com/110278377/232226636-88cbceb4-8986-48ac-b3e4-dbc13410d6ad.gif)
 
 <br/>
 
