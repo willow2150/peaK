@@ -133,19 +133,6 @@ Redis 7.0.10
 
 <br/>
 
-## :family: 프로젝트 멤버
-
-| Name   | Position                                                             |
-| ------ | -------------------------------------------------------------------- |
-| 김규리 | `front-end` 랭킹 차트, 로그인, 인트로 페이지                         |
-| 박귀렬 | `back-end` 데이터 수집 및 정제, 뉴스 API, 데이터베이스 설계 및 구현  |
-| 박시현 | `front-end` 종합 아이돌 페이지, 랭킹 페이지                          |
-| 박주희 | `back-end` CI/CD, 회원 API, 관심 아이돌 API, YouTube API             |
-| 이한빈 | `front-end` 아이돌 상세 페이지, 마이페이지                           |
-| 조현민 | `back-end` 데이터 분석, 개인 데이터 API, 랭킹 API, 데이터베이스 설계 |
-
-<br/>
-
 ## :clipboard: 포팅 매뉴얼
 
 [Porting_Manual_peaK.pdf](./exec/Porting_Manual_peaK.pdf)
